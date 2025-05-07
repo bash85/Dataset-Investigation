@@ -3,7 +3,7 @@
 ## Dataset Description
 The 'No-show appointments' dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row. These characteristics are the following:
 
-PatientId: The national ID of each patient scheduled an appointment.
+* PatientId: The national ID of each patient scheduled an appointment.
 AppointmentID: The appointment ID assigned automatically and uniquelly by the system for each appointment.
 Gender: The gender (M / F) of each patient schecduled an appointment.
 ScheduledDay: The date and time of scheduling an appointment.
