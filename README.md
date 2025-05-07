@@ -4,19 +4,19 @@
 The 'No-show appointments' dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row. These characteristics are the following:
 
 * PatientId: The national ID of each patient scheduled an appointment.
-AppointmentID: The appointment ID assigned automatically and uniquelly by the system for each appointment.
-Gender: The gender (M / F) of each patient schecduled an appointment.
-ScheduledDay: The date and time of scheduling an appointment.
-AppointmentDay: The date of the patient's appointment.
-Age: The age of each patient schecduled an appointment.
-Neighborhood: The neighborhood of each patient schecduled an appointment. This indicates the location of the hospital.
-Scholarship: Indicates whether or not (1 / 0) the patient is enrolled in Brasilian welfare program Bolsa Família.
-Hipertension: Indicates whether or not (1 / 0) the patient has a high blood pressure disease.
-Diabetes: Indicates whether or not (1 / 0) the patient has a diabetes disease.
-Alcoholism: Indicates whether or not (1 / 0) the patient is alcoholic.
-Handicap: Indicates whether or not (1 / 0) the patient has any disability.
-SMS_received: Indicates whether or not (1 / 0) the patient received a reminder SMS.
-No-show: Indicates whether or not (Yes / No) the patient missed the appointment. it shows ‘No’ if the patient attended the appointment, and ‘Yes’ if they did not attend.
+* AppointmentID: The appointment ID assigned automatically and uniquelly by the system for each appointment.
+* Gender: The gender (M / F) of each patient schecduled an appointment.
+* ScheduledDay: The date and time of scheduling an appointment.
+* AppointmentDay: The date of the patient's appointment.
+* Age: The age of each patient schecduled an appointment.
+* Neighborhood: The neighborhood of each patient schecduled an appointment. This indicates the location of the hospital.
+* Scholarship: Indicates whether or not (1 / 0) the patient is enrolled in Brasilian welfare program Bolsa Família.
+* Hipertension: Indicates whether or not (1 / 0) the patient has a high blood pressure disease.
+* Diabetes: Indicates whether or not (1 / 0) the patient has a diabetes disease.
+* Alcoholism: Indicates whether or not (1 / 0) the patient is alcoholic.
+* Handicap: Indicates whether or not (1 / 0) the patient has any disability.
+* SMS_received: Indicates whether or not (1 / 0) the patient received a reminder SMS.
+* No-show: Indicates whether or not (Yes / No) the patient missed the appointment. it shows ‘No’ if the patient attended the appointment, and ‘Yes’ if they did not attend.
 
 ## Question(s) for Analysis
 After reviewing the dataset, check it's attributes and the main context, several questions could be asked to explore the data. Here, we will focus on the following main questions:
